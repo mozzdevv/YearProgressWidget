@@ -1,3 +1,5 @@
+** Note: this entire widget was made by Google's AntiGravity. Including the remote repo push, as well as this README.md writeup (minus this sentence).
+
 # Year Progress Widget
 
 A minimalist iOS widget that visualizes the passage of time throughout the year. Each day is represented as a dot in an elegant grid, making it easy to see at a glance how much of the year has passed and how much remains.
