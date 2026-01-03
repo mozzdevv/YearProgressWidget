@@ -2,8 +2,6 @@
 
 A minimalist iOS widget that visualizes the passage of time throughout the year. Each day is represented as a dot in an elegant grid, making it easy to see at a glance how much of the year has passed and how much remains.
 
-![Widget Preview](/Users/mazo/.gemini/antigravity/brain/7e9f00a0-4aaf-4560-ae3d-e95497ed488d/widget_home_screen_1767443024530.png)
-
 ## Features
 
 ### 📱 Multiple Widget Sizes
