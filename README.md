@@ -1,4 +1,4 @@
-** Note: this entire widget was made by Google's AntiGravity. Including the remote repo push, as well as this README.md writeup (minus this sentence).
+** Note: this entire widget was made by Google's AntiGravity. Including the remote repo push, as well as this README.md writeup (minus this sentence). **
 
 # Year Progress Widget
 
